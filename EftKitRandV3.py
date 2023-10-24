@@ -70,4 +70,3 @@ def getRandomGun():
     
 
 getRandomGun()
-getRandomHelmet()
